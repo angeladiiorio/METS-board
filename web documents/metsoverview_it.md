@@ -2,44 +2,44 @@
 
 ## Introduzione
 
-Curare una biblioteca di oggetti digitali significa gestirne,
-necessariamente, i relativi metadati. I metadati necessari, ad una
+Mantenere una biblioteca di oggetti digitali significa gestire,
+necessariamente, i metadati che si riferiscono a tali oggetti. I metadati necessari, ad una
 gestione e ad un uso efficace degli oggetti digitali, sono diversi ed
-anche piu' numerosi, rispetto a quelli usati per manutenere collezioni
-di lavori a stampa o di altri oggetti fisici. Se una biblioteca puo'
-conservare i metadati descrittivi di un libro, il libro non si
-dissolvera' in una serie di pagine sconnesse, se la biblioteca dovesse
+piu' numerosi, rispetto a quelli usati per mantenere collezioni
+di opere a stampa o di altri meteriali fisici. Quando una biblioteca mantiene
+i metadati descrittivi di un libro, il libro non si
+dissolve in una serie di pagine sconnesse, nel caso in cui la biblioteca dovesse
 incorrere in qualche errore nel memorizzare i metadati strutturali su
-come e' organizzato il libro, ne' gli studiosi saranno impossibilitati
-nel valutare il libro se la biblioteca dovesse sbagliare nell 'annotare
+come e' organizzato il libro, ne' gli studiosi sarebbero impossibilitati
+nel valutare il libro se la biblioteca dovesse sbagliare nell'annotare
 che il libro e' stato prodotto usando una stampa offset Ryobi. Lo stesso
 non puo' dirsi per la versione digitale dello stesso libro. Senza i
 metadati strutturali, le immagini delle pagine o i file di testo di cui
 e' costituito un lavoro digitale sono di scarsa utilita', e senza i
 metadati tecnici riguardanti il processo di digitalizzazione, gli
-studiosi potrebbero essere insicuri su quanta rispondenza ci sia nella
+studiosi potrebbero non essere sicuri riguardo alla rispondenza della
 versione digitale rispetto all'originale. Inoltre, per necessita' di
 gestione interna, una biblioteca deve avere accesso a metadati tecnici
 appropriati per rinnovare e migrare periodicamente i dati, assicurando
 che la risorsa abbia un valore durevole.
 
 Il progetto [Making of America II](http://sunsite.berkeley.edu/MOA2/)
-(MOA2) ha gia' fronteggiato questi problemi in parte fornendo un formato
-per i metadati descrittivi, amministrativi e strutturali per lavori
-testuali e basati su immagini. METS, e' un'iniziativa della [Digital
+(MOA2) ha gia' fronteggiato questi problemi, in parte, fornendo un formato
+per i metadati descrittivi, amministrativi e strutturali per le opere 
+testuali e quelle basate su immagini. METS, e' un'iniziativa della [Digital
 Library Federation](http://www.clir.org/diglib/) che, sulla scorta del
 progetto MOA2 , si propone di costruire, e di fornire, un formato di
 documento XML per codificare i metadati necessari sia per la gestione
 degli oggetti della biblioteca digitale contenuti in un deposito
 digitale, che per lo scambio di alcuni oggetti tra i depositi (o tra i
-depositi ed i loro utenti). In base al loro utilizzo, un documento METS
+depositi ed i loro utenti). In base all'utilizzo, un documento METS
 potrebbe essere usato sia come Submission Information Package (SIP), sia
 come Archival Information Package (AIP), che come Dissemination
 Information Package (DIP) del modello di riferimento del [Open Archival
 Information System
 (OAIS)](http://ssdoo.gsfc.nasa.gov/nost/isoas/ref_model.html)
 
-Un documento METS e' costituito da sette sezioni principali :
+Un documento METS e' costituito da sette sezioni principali:
 
 1.  [**Intestazione METS**](#MHead) - Questa sezione contiene i metadati
     che descrivono il documento METS stesso, includendo alcune
@@ -540,7 +540,7 @@ e' necessaria per capirne l'ampio spettro di potenzialita'.
 
 -----
 
-Questo documento corrisponde alla traduzione del documento "[**METS: An
+Questo documento è la traduzione del documento "[**METS: An
 Overview &
 Tutorial**](//www.loc.gov/standards/mets/METSOverview.v2.html)",
 pubblicato il 2 Giugno 2004.  
@@ -550,3 +550,4 @@ nel corso del progetto per la biblioteca digitale
 ([S.I.M.B.A.D.](http://web-serv.provincia.campobasso.it/biblioteca/digitale/)),
 realizzato per la Biblioteca Provinciale "P. Albino" di Campobasso
 (Italia).
+La traduzione, è stata aggiornata nel Maggio 2019. 

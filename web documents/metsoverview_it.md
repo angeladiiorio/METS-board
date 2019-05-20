@@ -540,7 +540,7 @@ e' necessaria per capirne l'ampio spettro di potenzialita'.
 
 -----
 
-Questo documento corrisponde alla traduzione del documento "[**METS: An
+Questo documento è la traduzione del documento "[**METS: An
 Overview &
 Tutorial**](//www.loc.gov/standards/mets/METSOverview.v2.html)",
 pubblicato il 2 Giugno 2004.  
@@ -550,3 +550,4 @@ nel corso del progetto per la biblioteca digitale
 ([S.I.M.B.A.D.](http://web-serv.provincia.campobasso.it/biblioteca/digitale/)),
 realizzato per la Biblioteca Provinciale "P. Albino" di Campobasso
 (Italia).
+La traduzione, è stata aggiornata nel Maggio 2019. 
